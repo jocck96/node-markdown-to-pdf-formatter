@@ -1,0 +1,7 @@
+{
+  "name": "node-markdown-to-pdf-formatter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/compiler.js",
+  "scripts": { "start": "node src/compiler.js" }
+}
